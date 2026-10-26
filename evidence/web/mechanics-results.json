@@ -1,0 +1,123 @@
+{
+  "multiTouch": {
+    "dx": 1.5085233405159377,
+    "yaw": 0.14
+  },
+  "ray": {
+    "clear": 1,
+    "expected": 1,
+    "body": 3,
+    "expectedBody": 3,
+    "wall": -1
+  },
+  "simulations": [
+    {
+      "seed": 1,
+      "total": 12,
+      "traitors": 2,
+      "winner": "crew",
+      "elapsed": 273,
+      "meetings": 4,
+      "reason": "Toate sistemele stației au fost reparate."
+    },
+    {
+      "seed": 2,
+      "total": 40,
+      "traitors": 3,
+      "winner": "crew",
+      "elapsed": 75,
+      "meetings": 3,
+      "reason": "Toți trădătorii au fost descoperiți."
+    },
+    {
+      "seed": 3,
+      "total": 12,
+      "traitors": 4,
+      "winner": "crew",
+      "elapsed": 558,
+      "meetings": 3,
+      "reason": "Toate sistemele stației au fost reparate."
+    },
+    {
+      "seed": 4,
+      "total": 40,
+      "traitors": 5,
+      "winner": "crew",
+      "elapsed": 104,
+      "meetings": 4,
+      "reason": "Toți trădătorii au fost descoperiți."
+    },
+    {
+      "seed": 5,
+      "total": 12,
+      "traitors": 1,
+      "winner": "crew",
+      "elapsed": 144,
+      "meetings": 4,
+      "reason": "Toți trădătorii au fost descoperiți."
+    },
+    {
+      "seed": 6,
+      "total": 40,
+      "traitors": 2,
+      "winner": "crew",
+      "elapsed": 213,
+      "meetings": 1,
+      "reason": "Toate sistemele stației au fost reparate."
+    },
+    {
+      "seed": 7,
+      "total": 12,
+      "traitors": 3,
+      "winner": "traitors",
+      "elapsed": 142,
+      "meetings": 4,
+      "reason": "Trădătorii au preluat controlul simulării."
+    },
+    {
+      "seed": 8,
+      "total": 40,
+      "traitors": 4,
+      "winner": "crew",
+      "elapsed": 55,
+      "meetings": 3,
+      "reason": "Toți trădătorii au fost descoperiți."
+    },
+    {
+      "seed": 9,
+      "total": 12,
+      "traitors": 5,
+      "winner": "traitors",
+      "elapsed": 25,
+      "meetings": 0,
+      "reason": "Trădătorii au preluat controlul simulării."
+    },
+    {
+      "seed": 10,
+      "total": 40,
+      "traitors": 1,
+      "winner": "crew",
+      "elapsed": 21,
+      "meetings": 0,
+      "reason": "Toți trădătorii au fost descoperiți."
+    },
+    {
+      "seed": 11,
+      "total": 12,
+      "traitors": 2,
+      "winner": "crew",
+      "elapsed": 98,
+      "meetings": 2,
+      "reason": "Toți trădătorii au fost descoperiți."
+    },
+    {
+      "seed": 12,
+      "total": 40,
+      "traitors": 3,
+      "winner": "crew",
+      "elapsed": 295,
+      "meetings": 2,
+      "reason": "Toate sistemele stației au fost reparate."
+    }
+  ]
+}

@@ -1,0 +1,7 @@
+
+package: name='org.spacebetrayal.omega9' versionCode='2' versionName='0.1.1' platformBuildVersionName='16' platformBuildVersionCode='36' compileSdkVersion='36' compileSdkVersionCodename='16'
+sdkVersion:'24'
+targetSdkVersion:'36'
+application-label:'Space Betrayal'
+native-code: 'arm64-v8a'
+

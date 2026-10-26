@@ -1,0 +1,31 @@
+{
+  "results": [
+    {
+      "name": "desktop",
+      "overflow": false,
+      "movement": 2.4000000000000004,
+      "requests": 1,
+      "externalRequests": []
+    },
+    {
+      "name": "mobile",
+      "overflow": false,
+      "movement": 2.444888888888889,
+      "requests": 1,
+      "externalRequests": []
+    },
+    {
+      "name": "landscape",
+      "overflow": false,
+      "movement": 2.618095238095238,
+      "requests": 1,
+      "externalRequests": []
+    },
+    {
+      "name": "production-file",
+      "testHook": "undefined",
+      "started": true
+    }
+  ],
+  "errors": []
+}

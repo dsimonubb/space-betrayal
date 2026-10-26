@@ -1,0 +1,19 @@
+FIȘA JOCULUI
+
+Actualizare: OMEGA-9 ×6, suprafață nominală 5.088m² față de 848m² în prima ediție. Patru sectoare noi, Observator și galerie circulară cu scurtături.
+
+Titlu: Space Betrayal — OMEGA-9, ediție web pentru școală
+Autor/autori: [de completat de utilizator]
+Clasa: [de completat de utilizator]
+
+Descriere: Explorează o stație spațială 3D, calibrează terminale și descoperă identitățile care perturbă misiunea. Un om și boți locali. 12–40 participanți, 1–5 trădători, 11 roluri. Hunter face parte din echipaj și folosește un dispozitiv de scanare și neutralizare. Conținut adaptat școlii, fără arme realiste sau scene de moarte.
+
+Comenzi PC: WASD/săgeți pentru deplasare; mouse/glisare pentru privire; E terminal/ședință; R raport; Q abilitate; F izolare/scanare; Esc pauză; Tab hartă; M sunet. Terminalele folosesc butoanele 1–4 sau tastele respective.
+
+Comenzi telefon: joystick pentru deplasare, glisare pentru privire, butoane tactile pentru Folosește, Raport și Rol/Scanează. Două degete simultan sunt acceptate.
+
+Victorie: echipajul calibrează toate sistemele sau izolează toți trădătorii; trădătorii ating paritatea cu echipajul activ sau lasă avaria simulată să expire. Poți relua misiunea după rezultat.
+
+Verificări efectuate: Edge pe Windows cu automatizare; dimensiuni desktop 1440×900 și telefon emulat 390×844 / 844×390. Pornire, mișcare, touch, două degete, terminal, ședință, rezultat, reluare. Teste de reguli și 12 simulări accelerate cu boți. Testarea pe Android fizic și în alte familii de browsere rămâne de făcut. Nu reprezintă certificare pentru toate dispozitivele.
+
+Cerințe: browser modern cu JavaScript și WebGL2. Nu necesită server de joc, cont, instalare sau API. Nu colectează date personale. Tot codul este inclus în index.html. Grafică geometrică și sunet procedural; Three.js sub licență MIT, inclusă în ajutor.

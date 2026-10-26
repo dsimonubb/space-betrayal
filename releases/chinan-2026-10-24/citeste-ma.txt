@@ -1,0 +1,72 @@
+SPACE BETRAYAL - OMEGA-9 x6
+Pachet de predare pentru chinan.ro - 24 octombrie 2026
+Autor: Sebastian, clasa 3D
+
+PORNIRE
+1. Dezarhivează întregul pachet.
+2. Deschide index.html cu dublu-click într-un browser modern.
+3. Alege rolul, numărul de participanți și numărul de trădători.
+4. Apasă ÎNCEPE MISIUNEA. În meniu există și Cum se joacă și credite.
+
+INSTALARE PE CHINAN.RO
+Încarcă index.html în directorul public ales pentru joc, de exemplu
+jocuri/space-betrayal/. Păstrează numele index.html. Jocul funcționează
+în subdirectoare: nu necesită schimbarea căilor sau recompilare.
+Cele trei fișiere text sunt documentele de predare și nu sunt necesare
+pentru rularea jocului. Nu sunt necesare Node, PHP, baze de date, pachete
+npm, cont OpenAI, chei API sau acces la OpenAI Sites.
+Jocul are tot codul, stilurile, grafica și sunetul incluse în index.html.
+Pentru telefon, accesează adresa HTTPS la care este găzduit jocul.
+
+CERINȚE
+JavaScript și WebGL2 disponibile într-un browser modern; accelerarea
+grafică trebuie să fie disponibilă. Dacă scena 3D nu poate porni, jocul
+afișează un mesaj explicativ. Nu se afirmă compatibilitate cu browsere
+vechi sau cu dispozitive care nu oferă WebGL2.
+
+CUM SE JOACĂ
+Explorezi stația OMEGA-9 cu suprafață de șase ori mai mare, repari sisteme
+și deduci cine perturbă simularea. Există o singură hartă jucabilă.
+Un jucător uman și boți locali: 12-40 participanți, 1-5 trădători, 11 roluri.
+Nu există multiplayer online.
+
+PC
+WASD sau săgeți: deplasare.
+Mouse capturat sau glisare ținând apăsat pe scenă: privire.
+E: terminal sau ședință de urgență lângă masa centrală.
+R: raportează un semnal deconectat apropiat.
+Q: abilitatea rolului; Hunter scanează.
+F: izolare pentru trădători / scanare pentru Hunter.
+Hunter poate scana și prin click stânga când mouse-ul este capturat.
+1-4 sau butoanele numerice: secvența de la terminal.
+Esc: pauză; Tab: arată/ascunde harta; M: sunet.
+
+TELEFON
+Joystickul din stânga deplasează personajul.
+Glisează pe scenă pentru privire; sunt acceptate două degete simultan.
+Butoanele din dreapta: Folosește, Raport, Rol/Scanează.
+Izolează apare doar când rolul permite această acțiune.
+Pentru terminale și vot se folosesc butoanele afișate.
+Butonul II deschide pauza. Modul peisaj oferă un câmp vizual mai larg.
+
+SCOP ȘI FINAL
+Echipajul câștigă prin calibrarea tuturor sistemelor de către membrii
+echipajului sau prin izolarea tuturor trădătorilor. Trădătorii câștigă
+la paritate numerică cu echipajul activ sau când expiră avaria de 75s.
+După rezultat poți începe o nouă misiune sau reveni în meniu.
+Un costum izolat devine ecou holografic; membrii echipajului pot continua
+misiunile, dar nu mai votează și nu folosesc abilități.
+Hunter este din echipaj și folosește un scanner cu 3 încărcări, rază
+25m și pauză 3s. Nu poate neutraliza echipajul și nu traversează pereții
+sau costumele aflate în față.
+
+CONȚINUT ȘI DATE
+Personaje inventate, geometrie desenată în cod și sunet procedural.
+Fără arme realiste, răniri, scene de moarte, imagini sau muzică descărcate.
+Fără colectare de date, conturi, clasamente trimise pe server sau salvări.
+Three.js este inclus local sub licență MIT; vezi licente.txt și ajutorul.
+
+VERIFICARE
+Fișa jocului descrie exact testele efectuate și ce rămâne de verificat.
+Autorul a confirmat testarea în Microsoft Edge pe laptop.
+Testarea pe un telefon fizic și în Chrome nu a fost confirmată.

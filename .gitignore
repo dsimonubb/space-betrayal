@@ -1,0 +1,17 @@
+.handoff-work/
+distribution/
+**/node_modules/
+**/.godot/
+**/.runtime/
+**/builds/
+web/evidence/
+*.keystore
+*.jks
+*.p12
+*.pfx
+.env
+.env.*
+!*.example
+*.log.tmp
+**/tools/templates/
+**/tools/editor_data/

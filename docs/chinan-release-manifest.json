@@ -1,0 +1,81 @@
+{
+  "release": "space-betrayal-omega9x6-2026-10-24",
+  "author": "Sebastian",
+  "class": "3D",
+  "source_commit": "96150b39fce1021ccda773a05c5b201eb8e66f3c",
+  "sites_version": 2,
+  "demo_url": "https://space-betrayal-omega-nine.sebastiansb16ro.chatgpt.site",
+  "game_unchanged": true,
+  "files": [
+    {
+      "name": "citeste-ma.txt",
+      "bytes": 3540,
+      "sha256": "f982a1c38c8506526c457f5eb3765263807606992c51ca5a83b02b8ed1c8a812"
+    },
+    {
+      "name": "fisa-jocului.txt",
+      "bytes": 3335,
+      "sha256": "ee0109714c0dcfadb381a49b1349d0e90551cc7f990a26a7633990845d0567db"
+    },
+    {
+      "name": "index.html",
+      "bytes": 575040,
+      "sha256": "e670ea61f30247f9f09394ae2f84c7008196671877a2bb40a6227924fc7e556f"
+    },
+    {
+      "name": "licente.txt",
+      "bytes": 1433,
+      "sha256": "ffc68818561b0a17c8b4fd4c04c179d6984a8e78012ff34683227a0a71d69f76"
+    }
+  ],
+  "zip_bytes": 155344,
+  "zip_sha256": "69d72750d66c5811a98c700551e764ab3b74abddaa304bf27fa8ebefc8b81be9",
+  "uncompressed_bytes": 583348,
+  "remaining_manual_checks": [
+    "Chrome console",
+    "physical phone",
+    "full manual match and intentional loss/restart"
+  ],
+  "release_browser_checks": {
+    "browser": "Microsoft Edge, Windows",
+    "physicalPhoneTest": false,
+    "results": [
+      {
+        "profile": "pc",
+        "start": true,
+        "help": true,
+        "scanner": true,
+        "pause": true,
+        "returnToMenu": true,
+        "horizontalOverflow": false,
+        "externalRequests": [],
+        "productionHookAbsent": true
+      },
+      {
+        "profile": "telefon-emulat",
+        "start": true,
+        "help": true,
+        "scanner": true,
+        "pause": true,
+        "returnToMenu": true,
+        "horizontalOverflow": false,
+        "externalRequests": [],
+        "productionHookAbsent": true
+      },
+      {
+        "profile": "peisaj-emulat",
+        "start": true,
+        "help": true,
+        "scanner": true,
+        "pause": true,
+        "returnToMenu": true,
+        "horizontalOverflow": false,
+        "externalRequests": [],
+        "productionHookAbsent": true
+      }
+    ],
+    "errors": []
+  },
+  "archive_verified": true,
+  "game_sha256": "e670ea61f30247f9f09394ae2f84c7008196671877a2bb40a6227924fc7e556f"
+}

@@ -1,0 +1,11 @@
+import {build} from 'esbuild';
+import {readFile,mkdir,writeFile} from 'node:fs/promises';
+const testing=process.argv.includes('--test');
+const license=await readFile('node_modules/three/LICENSE','utf8');
+const result=await build({entryPoints:['src/app.mjs'],bundle:true,write:false,minify:true,format:'iife',target:['es2020'],legalComments:'none',define:{__TEST__:String(testing),__THREE_LICENSE__:JSON.stringify(license)}});
+const template=await readFile('src/template.html','utf8');
+const css=await readFile('src/style.css','utf8');
+const html=template.replace('/*__STYLE__*/',()=>css).replace('/*__BUNDLE__*/',()=>result.outputFiles[0].text.replace(/<\/script/gi,'<\\/script'));
+if(Buffer.byteLength(html)>5_000_000)throw Error('School package exceeds 5 MB');
+const dir=testing?'evidence/test':'dist';await mkdir(dir,{recursive:true});await writeFile(dir+'/index.html',html);
+console.log(JSON.stringify({output:dir+'/index.html',bytes:Buffer.byteLength(html),testing}));

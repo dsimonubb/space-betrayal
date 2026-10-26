@@ -1,0 +1,5 @@
+Godot Engine v4.7.2.stable.official.ed1daf0bf - https://godotengine.org
+
+ERROR: Failed to read the root certificate store.
+   at: get_system_ca_certificates (platform/windows/os_windows.cpp:2582)
+BOT SIMULATION PASS: population=12 winner=ECHIPAJUL reason=Toți trădătorii au fost descoperiți. active_seconds=62.5166666666644 total_seconds=69.1499999999974

@@ -1,0 +1,14 @@
+{
+  "routes": {
+    "tested": 54,
+    "tiles": 318,
+    "area": 5088,
+    "bounds": {
+      "minX": -38,
+      "maxX": 38,
+      "minZ": -42,
+      "maxZ": 38
+    }
+  },
+  "errors": []
+}

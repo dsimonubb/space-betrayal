@@ -1,0 +1,68 @@
+FIȘA JOCULUI PENTRU CHINAN.RO
+Release pregătit la 24 octombrie 2026
+
+Titlu: Space Betrayal - OMEGA-9 x6
+Autor: Sebastian
+Clasa: 3D
+Descriere: Explorează o stație spațială 3D, calibrează terminale și
+descoperă identitățile care perturbă misiunea.
+
+Controale PC:
+WASD/săgeți = deplasare; mouse/glisare = privire; E = terminal/ședință;
+R = raport; Q = rol/scanner; F = izolare/scanare; Esc = pauză;
+Tab = hartă; M = sunet; 1-4 sau butoane = secvența de la terminal.
+Hunter poate scana prin click stânga când privirea este capturată.
+
+Controale telefon:
+Joystick + glisare pentru privire + butoanele Folosește, Raport,
+Rol/Scanează și, pentru trădători, Izolează. Două degete simultan.
+Terminalele, voturile și pauza se operează prin butoane pe ecran.
+
+Cum câștigi:
+Echipajul repară toate sistemele sau descoperă toți trădătorii.
+Trădătorii ating paritatea numerică sau lasă avaria simulată să expire.
+După rezultat există buton de reluare și revenire în meniu.
+
+Hartă și participanți:
+O singură hartă, OMEGA-9 x6: 318 dale de 4x4m, șase terminale,
+patru sectoare noi, Observator și galerie perimetrală cu scurtături.
+Un om și boți locali, 12-40 participanți, 1-5 trădători, 11 roluri.
+Hunter este din echipaj și are scanner; fără arme realiste.
+Fără multiplayer online.
+
+Testat pe - confirmare a autorului:
+Microsoft Edge pe laptop. Autorul a testat versiunea publicată și a
+confirmat că este în regulă. Modelul laptopului nu a fost precizat.
+Nu a confirmat testarea pe telefon sau un meci manual integral până
+la final pe ambele tipuri de dispozitive.
+
+Testat automat:
+Microsoft Edge pe Windows, desktop și ecrane de telefon emulat.
+Fluxuri: pornire, deplasare, touch, două degete, pauză, terminal,
+ședință, câștig, pierdere, reluare și meniu.
+11 teste de reguli/pachet, 54 trasee către terminale și 12 simulări
+accelerate cu boți au trecut. Stările de câștig/pierdere din unele
+teste UI au fost injectate programatic; nu sunt un meci uman integral.
+Verificările de telefon sunt emulare, nu test pe Android/iPhone fizic.
+
+LISTA DE VERIFICARE CERUTĂ ÎN GHID
+1. index.html pornește cu dublu-click:
+   Verificat automat; fișier complet, fără server sau resurse externe.
+2. F12 / Console în Chrome fără mesaje roșii:
+   Nicio eroare JavaScript în verificările Edge. Chrome nu a fost testat.
+3. Toate nivelurile parcurse până la final:
+   Jocul are o singură hartă. Finalurile și obiectivele au fost verificate
+   automat. Parcurgerea umană integrală rămâne de confirmat.
+4. Pierdere intenționată și reluare:
+   Ecranul de pierdere și reluarea sunt validate automat; testul manual
+   al autorului pentru acest caz nu a fost precizat.
+5. Telefon, butoane, tăiere și scroll lateral:
+   Comenzile și încadrarea au trecut în emulare. Telefon fizic: netestat.
+6. Instrucțiunile corespund funcțiilor jocului:
+   Verificate în cod și în fluxurile automate; o hartă, șase terminale,
+   controale și roluri existente. Celelalte hărți nu sunt jucabile.
+
+Înainte de publicarea pe site-ul școlii:
+Rămân de confirmat testul pe telefon fizic, verificarea în Chrome și
+parcurgerea manuală până la final cu verificarea pierderii și reluării,
+conform listei din ghid. Aceste verificări nu sunt declarate efectuate.

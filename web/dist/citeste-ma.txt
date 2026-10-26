@@ -1,0 +1,17 @@
+SPACE BETRAYAL — OMEGA-9 | Ediție web pentru școală
+
+HARTĂ EXTINSĂ ×6: 318 dale în loc de 53, cu Laborator, Navigație, Seră orbitală, Hangar, Observator și galerie perimetrală. Aceleași comenzi și șase misiuni, distribuite în sectoarele extinse. Minimapă adaptată întregii stații.
+
+PORNIRE: deschide index.html într-un browser modern cu JavaScript și WebGL2. Pe telefon folosește adresa găzduită a jocului.
+
+INSTALARE PE HOST: dezarhivează pachetul și încarcă index.html în directorul public dorit, de exemplu public_html/jocuri/space-betrayal/. Poți păstra lângă el cele două fișiere text. Nu trebuie instalat nimic pe server; nu sunt necesare Node, PHP, baze de date, CDN sau chei API. Căile relative permit găzduirea într-un subdirector. Folosește o adresă HTTPS pentru compatibilitate cu facilitățile browserului.
+
+PC: WASD/săgeți, mouse sau glisare pe scenă; E folosește; R raport; Q rol; F izolează/scanează; Esc pauză; Tab hartă; M sunet. Hunter scanează și prin click stânga când privirea este capturată. La terminal apasă modulele în ordinea afișată sau tastele 1–4.
+
+TELEFON: joystick stânga, glisare pentru privire și butoanele din dreapta. Poți deplasa și privi simultan cu două degete. În peisaj ai un câmp vizual mai larg. Alege rolul și apasă ÎNCEPE MISIUNEA din meniu.
+
+Un jucător uman și boți locali, fără multiplayer online. Echipajul repară toate sistemele sau descoperă toți trădătorii. Trădătorii câștigă la paritate numerică sau prin expirarea avariei de reactor. Hunter este membru al echipajului, cu scanner, trei încărcări, 25m și 3s pauză. Nu poate neutraliza echipajul. Fără arme realiste sau scene de moarte.
+
+Dacă WebGL2 nu este disponibil, jocul afișează un mesaj. Actualizează browserul și verifică disponibilitatea accelerării grafice. Fișierul HTML include tot codul necesar și licența Three.js MIT în meniul de ajutor.
+
+Pachet pregătit pentru chiran.ro, conform domeniului cerut. Documentul de predare furnizat are altă ortografie: chinan.ro. Confirmă destinația exactă înainte de încărcarea pe host. Nu au fost modificate domenii sau conturi de hosting.

@@ -1,0 +1,20 @@
+[
+  {
+    "archive": "three-0.180.0.tgz",
+    "target": "web/node_modules/three",
+    "sha256": "4032f8789418d78cd99e827d7d57047d1238fd706ba0ef7e0ed3b27e35b45d61",
+    "bytes": 7721303
+  },
+  {
+    "archive": "esbuild-0.25.10.tgz",
+    "target": "web/node_modules/esbuild",
+    "sha256": "619f6a85567c91f54eab5f7b6e0efd5eea6baa0cc6b6f3d859136a8c16aa71da",
+    "bytes": 33528
+  },
+  {
+    "archive": "esbuild-win32-x64-0.25.10.tgz",
+    "target": "web/node_modules/@esbuild/win32-x64",
+    "sha256": "9655112f0296cc10a0169a1e88c8df481b2ad5a30f2c240fc45733cdcf66b69a",
+    "bytes": 4414848
+  }
+]

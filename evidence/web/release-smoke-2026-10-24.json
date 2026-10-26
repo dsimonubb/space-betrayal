@@ -1,0 +1,40 @@
+{
+  "browser": "Microsoft Edge, Windows",
+  "physicalPhoneTest": false,
+  "results": [
+    {
+      "profile": "pc",
+      "start": true,
+      "help": true,
+      "scanner": true,
+      "pause": true,
+      "returnToMenu": true,
+      "horizontalOverflow": false,
+      "externalRequests": [],
+      "productionHookAbsent": true
+    },
+    {
+      "profile": "telefon-emulat",
+      "start": true,
+      "help": true,
+      "scanner": true,
+      "pause": true,
+      "returnToMenu": true,
+      "horizontalOverflow": false,
+      "externalRequests": [],
+      "productionHookAbsent": true
+    },
+    {
+      "profile": "peisaj-emulat",
+      "start": true,
+      "help": true,
+      "scanner": true,
+      "pause": true,
+      "returnToMenu": true,
+      "horizontalOverflow": false,
+      "externalRequests": [],
+      "productionHookAbsent": true
+    }
+  ],
+  "errors": []
+}

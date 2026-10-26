@@ -1,0 +1,21 @@
+{
+  "version": "0.2.0",
+  "date": "2026-10-18",
+  "files": [
+    {
+      "name": "SpaceBetrayal-Android-0.2.0.apk",
+      "size": 28469476,
+      "sha256": "704c5cbd1bf769a57a6a099d17243f2a92c71b14cf21375d34f67f7a04ab3e9b"
+    },
+    {
+      "name": "SpaceBetrayal-PC-0.2.0.zip",
+      "size": 38225498,
+      "sha256": "cbbc73b92612427d32e800f4a8adfbbf02128d9e966edb1190f020f5270cef99"
+    },
+    {
+      "name": "SpaceBetrayal-Source-0.2.0.zip",
+      "size": 1129071,
+      "sha256": "36f6ffc86e0eb1902f206c86d1b440a3f6e4a49d579d097281b12ecfe1eb55e3"
+    }
+  ]
+}

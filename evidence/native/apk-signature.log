@@ -1,0 +1,17 @@
+Verifies
+Verified using v1 scheme (JAR signing): false
+Verified using v2 scheme (APK Signature Scheme v2): true
+Verified using v3 scheme (APK Signature Scheme v3): true
+Verified using v3.1 scheme (APK Signature Scheme v3.1): false
+Verified using v4 scheme (APK Signature Scheme v4): false
+Verified for SourceStamp: false
+Number of signers: 1
+Signer #1 certificate DN: CN=Space Betrayal Prototype, OU=Development, O=Local, C=RO
+Signer #1 certificate SHA-256 digest: adafce1a1e6c0d0ae70f81c224651eaa8a0e4bad4fe1605478a112f061e378ca
+Signer #1 certificate SHA-1 digest: 398826c0ea44fecfb2033484766b3d3ea9402930
+Signer #1 certificate MD5 digest: 4b4a836bde4913f5dbcf931044d6d94f
+Signer #1 key algorithm: RSA
+Signer #1 key size (bits): 2048
+Signer #1 public key SHA-256 digest: e3147bd85d6eeedd42eb74b8b9cc18dcf56242d37151c2b0231b3bd6bfad3ac6
+Signer #1 public key SHA-1 digest: a278c015425718a03f000bf5011d520a287aa502
+Signer #1 public key MD5 digest: a3171d974860289ac8f776e07b9caa92

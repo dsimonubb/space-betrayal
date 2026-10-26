@@ -1,0 +1,7 @@
+127.0.0.1 - - [18/Oct/2026 17:15:02] "GET /game.png HTTP/1.1" 200 -
+127.0.0.1 - - [18/Oct/2026 17:15:03] code 404, message File not found
+127.0.0.1 - - [18/Oct/2026 17:15:03] "GET /favicon.ico HTTP/1.1" 404 -
+127.0.0.1 - - [18/Oct/2026 17:15:13] "HEAD /game.png HTTP/1.1" 200 -
+127.0.0.1 - - [18/Oct/2026 17:16:07] "GET /game.png HTTP/1.1" 200 -
+127.0.0.1 - - [18/Oct/2026 17:16:08] code 404, message File not found
+127.0.0.1 - - [18/Oct/2026 17:16:08] "GET /favicon.ico HTTP/1.1" 404 -
